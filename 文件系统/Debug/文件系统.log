@@ -1,0 +1,11 @@
+﻿  正在跳过...(未检测到相关更改)
+  stdafx.cpp
+  文件系统.cpp
+e:\document\visual studio 2015\projects\文件系统\文件系统\struct.h(44): warning C4101: “time”: 未引用的局部变量
+e:\document\visual studio 2015\projects\文件系统\文件系统\filesystem.h(23): warning C4101: “a”: 未引用的局部变量
+e:\document\visual studio 2015\projects\文件系统\文件系统\filesystem.h(81): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+e:\document\visual studio 2015\projects\文件系统\文件系统\filesystem.h(530): warning C4101: “dir”: 未引用的局部变量
+e:\document\visual studio 2015\projects\文件系统\文件系统\filesystem.h(1190): warning C4018: “<”: 有符号/无符号不匹配
+e:\document\visual studio 2015\projects\文件系统\文件系统\filesystem.h(1205): warning C4018: “<”: 有符号/无符号不匹配
+  文件系统.vcxproj -> E:\Document\Visual Studio 2015\Projects\文件系统\Debug\文件系统.exe
+  文件系统.vcxproj -> E:\Document\Visual Studio 2015\Projects\文件系统\Debug\文件系统.pdb (Full PDB)
